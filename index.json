@@ -1,0 +1,11 @@
+{
+  "org": "pandas-dev",
+  "repo": "pandas-governance",
+  "versions": [
+    {
+      "commit": "fd14ad5cfecfb92a0a8ee05031ee443c4f6571c4",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:48:54.899622+00:00"
+    }
+  ]
+}
