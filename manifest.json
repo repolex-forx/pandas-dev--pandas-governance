@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "pandas-dev",
+  "repo": "pandas-governance",
+  "versions": [
+    {
+      "commit": "fd14ad5cfecfb92a0a8ee05031ee443c4f6571c4",
+      "parsed_at": "2026-10-21T20:46:58.239441+00:00",
+      "filetree": "filetree/fd14ad5cfecfb92a0a8ee05031ee443c4f6571c4.nq.gz",
+      "blobs": [
+        "blob/dc984a0594c829d20edb7aca71f30ed2d6ee0e6d.nq.gz",
+        "blob/ec3a73f8c73cb8ecfd1041c14f15a8b3d0a9e48f.nq.gz",
+        "blob/3b2cf19b2bd309945d20cb16097b1f24188dd4f2.nq.gz",
+        "blob/258e3f7a06e75d24d42d30777647c0595d62cbb3.nq.gz",
+        "blob/9a65ee3b1e1f92d89b446e92c534ef0c12febafd.nq.gz",
+        "blob/085b0778b5af48391fd435a00ca5ae1d92a7dc65.nq.gz",
+        "blob/f6616a2b1ac9cd285011aa1327bae660524404b1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
