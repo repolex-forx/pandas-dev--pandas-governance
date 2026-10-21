@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pandas-dev/pandas-governance/commit/fd14ad5cfecfb92a0a8ee05031ee443c4f6571c4",
       "git:hexsha": "fd14ad5cfecfb92a0a8ee05031ee443c4f6571c4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
